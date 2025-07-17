@@ -1,5 +1,5 @@
 body {
-    background-color: #c56300;
+    background-color: #ecb379;
     font-family: Arial, sans-serif;
     text-align: center;
     padding-top: 50px;
@@ -8,4 +8,14 @@ body {
 h1 {
     color: #000000;
     font-size: 25px;
+}
+
+
+.container h2, .container p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align:left;
+font-size: 20px;
+}
+.container h2   {
+    font-size: 30px;
 }
