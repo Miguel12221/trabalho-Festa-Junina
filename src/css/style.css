@@ -1,0 +1,22 @@
+body 
+.container {
+    width: 80%;
+    max-width: 2500px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #f1d3d3;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(249, 244, 244, 0.1);
+
+}
+img {
+    max-width: 50%;
+    border-radius: 12px;
+}
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+   
+}
