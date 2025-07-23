@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #ffcece;
     font-family: Arial, sans-serif;
     text-align: center;
     padding-top: 50px;
@@ -21,3 +21,6 @@ font-size: 20px;
 }
 
 
+p, h2 {
+    color: #ffffff;
+}
