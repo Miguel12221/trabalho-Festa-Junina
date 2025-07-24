@@ -71,9 +71,6 @@ border-radius: 5%;
   padding: 20px;
 }
 
-audio controls{
-  
-}
 a h3 {
   font-size: 15px;
   color: black;
@@ -88,8 +85,20 @@ a h4 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: black;
 }
-.container-pag2 {
+.container-pag2  {
   background-color: #ff9800;
 background: #ffa600;
-border-radius: 20px;
+border-radius: 15px;
+
+}
+.container-pag2 h4, .container-pag2 p {
+  text-align:left;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img-pag2 { 
+  text-align: right;
+ margin: 20px;
+
+ 
 }
