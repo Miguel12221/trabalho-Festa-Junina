@@ -1,3 +1,4 @@
 ﻿# trabalho-Festa-Junina
-# ANo informatica A 
+# Ano informatica A 
 : João Miguel Barnosa Souza
+
